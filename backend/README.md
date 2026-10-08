@@ -307,10 +307,6 @@ backend/
         └── edital.routes.ts
 ```
 
-## Vídeo de demonstração
-
-(link do vídeo – a adicionar)
-
 ## Autor
 
 - **Nome**: Tadeu dos Santos Jerônimo
